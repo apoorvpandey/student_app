@@ -149,6 +149,7 @@ class _HomeScreenState extends State<HomeScreen> {
 //                      border: OutlineInputBorder(),
 //                      labelText: "AppBar Color(IOS only)",
 //                      hintText: "Hint: This HAS to be in HEX RGBA format"),
+
 //                ),
                   SizedBox(
                     height: 16.0,
